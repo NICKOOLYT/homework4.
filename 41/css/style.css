@@ -1,0 +1,509 @@
+body{font-family: sans-serif;
+color: floralwhite;
+display: flex;
+position: absolute;}
+/*Портфолио*/
+
+.portfolio{
+  position: absolute;
+width: 77px;
+height: 16px;
+left: 550px;
+top: 53px;
+
+}
+.web{position: absolute;
+  width: 135px;
+height: 31px;
+left: 215px;
+top: 24px;
+}
+.tel{position: absolute;
+width: 122px;
+height: 16px;
+left: 1600px;
+top: 32px;
+color: #2196F3;
+}
+.email{position: absolute;
+width: 135px;
+height: 16px;
+left: 1378px;
+top: 32px;}
+.studio{position: absolute;
+width: 49px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+.contacts{position: absolute;
+width: 68px;
+height: 16px;
+left: 679px;
+top: 32px;}
+.effect{position: absolute;
+width: 696px;
+height: 120px;
+left: 540px;
+top: 280px;}
+.zakaz{position: absolute;
+width: 150px;
+height: 30px;
+left: 790px;
+top: 440px;
+background: #2196F3;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;}
+.shablon{
+  position: absolute;
+width: 1900px;
+height: 600px;
+left: 0px;
+top: 80px;
+
+}
+.zan{position: absolute;
+width: 376px;
+height: 42px;
+left: 750px;
+top: 1119px;
+}
+.comp{position: absolute;
+  
+width: 370px;
+height: 294px;
+left: 300px;
+top: 1211px;
+
+}
+.telefonp{position: absolute;
+  width: 370px;
+height: 294px;
+left: 690px;
+top: 1211px;}
+.plansh{position: absolute;
+width: 370px;
+height: 294px;
+left: 1090px;
+top: 1211px;
+}
+.command{position: absolute;
+width: 264px;
+height: 42px;
+left: 790px;
+top: 1693px;}
+.igorp{position: absolute;
+width: 270px;
+height: 260px;
+left: 250px;
+top: 1785px;}
+.olgap{position: absolute;
+width: 270px;
+height: 260px;
+left: 615px;
+top: 1785px;
+}
+.nikolayp{position: absolute;
+width: 270px;
+height: 260px;
+left: 910px;
+top: 1785px;;}
+.mihailp{position: absolute;
+width: 270px;
+height: 260px;
+left: 1200px;
+top: 1785px;}
+.igor{position: absolute;
+width: 188px;
+height: 19px;
+left: 300px;
+top: 2075px;}
+.olga{position: absolute;
+width: 188px;
+height: 19px;
+left: 630px;
+top: 2075px;}
+.nikolay{position: absolute;
+width: 188px;
+height: 19px;
+left: 930px;
+top: 2075px;}
+.mihail{position: absolute;
+width: 188px;
+height: 19px;
+left: 1230px;
+top: 2075px;
+}
+.WebStudio{position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 5px;
+}
+.studio{position: absolute;
+width: 49px;
+height: 16px;
+left: 453px;
+top: 53px;}
+.detalis{position: absolute;
+width: 270px;
+height: 16px;
+left: 280px;
+top: 924px;}
+.detalisp{position: absolute;
+width: px;
+height: 155px;
+left: 310px;
+top: 780px;}
+.detalis2{position: absolute;
+width: 270px;
+height: 75px;
+left: 280px;
+top: 950px;}
+.punctualp{position: absolute;
+height: 155px;
+  left: 580px; ;
+top: 780px;
+bottom: 0%;
+}
+.punctual{position: absolute;
+width: 270px;
+height: 16px;
+left: 580px;
+top: 924px;}
+.punctual2{position: absolute;
+width: 270px;
+height: 75px;
+left: 580px;
+top: 950px;}
+.planp{position: absolute;
+height: 155px;
+  left: 880px; ;
+right:500 ;
+top: 780px;
+bottom: 0%;}
+.plan{position: absolute;
+width: 270px;
+height: 16px;
+left: 880px;
+top: 924px;
+}
+.plan2{position: absolute;
+width: 270px;
+height: 75px;
+left: 880px;
+top: 950px;
+}
+.tehnologyp{position: absolute;
+height: 155px;
+  left: 1200px;
+top: 790px;
+bottom: 32.53%;}
+.tehnology{position: absolute;
+width: 270px;
+height: 16px;
+left: 1180px;
+top: 924px;
+}
+.tehnology2{position: absolute;
+width: 270px;
+height: 75px;
+left: 1180px;
+top: 950px;}
+.studia{position: absolute;
+width: 49px;
+height: 16px;
+left: 453px;
+top: 32px;
+}
+.port{position: absolute;
+  width: 77px;
+height: 16px;
+left: 552px;
+top: 32px;
+}
+.con{position: absolute;
+width: 68px;
+height: 16px;
+left: 679px;
+top: 32px;}
+.telefon{position: absolute;
+width: 122px;
+height: 16px;
+left: 1330px;
+top: 32px;}
+.em{position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 32px;
+}
+.all{position: absolute;
+width: 40px;
+height: 24px;
+left: 517px;
+top: 180px;
+}
+.site{position: absolute;
+width: 84px;
+height: 26px;
+left: 598px;
+top: 180px;
+}
+.disain{position: absolute;
+width: 59px;
+height: 26px;
+left: 887px;
+top: 180px;}
+.marketing{position: absolute;
+width: 86px;
+height: 26px;
+left: 998px;
+top: 180px;}
+.app{position: absolute;
+width: 101px;
+height: 26px;
+left: 734px;
+top: 180px;}
+.tehnop{position: absolute;
+
+}
+.tehno{position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 576px;
+}
+.tehno2{position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 628px;
+}
+.posterp{position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 262px;
+}
+.poster{position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 576px;}
+.poster2{position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 616px;}
+.restoranp{position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 262px;}
+.restoran{position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 576px;}
+.restoran2{position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 616px;
+}
+.proektp{position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 696px;
+
+}
+.proekt{position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1010px;
+}
+.proekt2{position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1050px;}
+.boxesp{position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 696px;}
+.boxes{position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1010px;
+}
+.boxes2{position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1050px;}
+.bordersp{position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 696px;
+}
+.borders{position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1010px;}
+.borders2{position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1050px;}
+.editionp{position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 1130px;}
+.edition{position: absolute;
+width: 322px;
+height: 36px;
+left: 239px;
+top: 1444px;}
+.edition2{position: absolute;
+width: 322px;
+height: 30px;
+left: 239px;
+top: 1484px;}
+.labp{position: absolute;
+width: 370px;
+height: 294px;
+left: 615px;
+top: 1130px;}
+.lab{position: absolute;
+width: 322px;
+height: 36px;
+left: 639px;
+top: 1444px;}
+.lab2{position: absolute;
+width: 322px;
+height: 30px;
+left: 639px;
+top: 1484px;}
+.businessp{position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 1130px;}
+.business{position: absolute;
+width: 322px;
+height: 36px;
+left: 1039px;
+top: 1444px;}
+.business2{position: absolute;
+width: 322px;
+height: 30px;
+left: 1039px;
+top: 1484px;}
+.envelope{position: absolute;
+left: 1055px;
+right: 33.25%;
+top: 37px;
+bottom: 97.55%;}
+.telp{position: absolute;
+left: 1310px;
+right: 21.69%;
+top: 34px;
+bottom: 97.45%;}
+.WebStudio2{position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 2700px}
+.Address{position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 2760px;
+}
+.mail2{position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 2890px;
+}
+.tel2{position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 2850px;}
+
+.sidebar{background-color:  #2F303A;position: absolute;
+width: 1870px;
+height: 252px;
+left: 0px;
+top: 2679px;}
+.overplay_text{font-size: 18px;
+line-height: 1.56;
+letter-spacing: 0.03em;
+color: #ffffff;
+background-color: rgba(33, 150, 243, 0.9);
+padding-left: 24px;
+padding-right: 24px;
+display: flex;
+align-items: center;
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+transition-property:transform ;
+transform: translateY(100%);
+transition-duration: 250ms;
+transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1) ;
+}
+.portfoliop ul
+.portfoliop li {position: relative;
+  
+}
+.portfoliop li{display: inline-block;}
+.portfoop img{position: absolute;
+position: absolute;
+width: 370px;
+height: 294px;
+padding-left: 215px;
+top: 262px;
+display: block;
+}
+.descr{ position: relative;
+
+
+transition: all .25s;}
+.portfoliop li:hover .descr {display: block;}
+.overplay-img{position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 262px;}
+.overplay-text{position: absolute;
+ position: absolute;
+width: 367px;
+height: 290px;
+left: 217px;
+top: 247px;
+text-align: center;
+font-size: 18px;
+line-height: 28px;
+background-color:rgba(33, 150, 243, 0.9);
+  color: #ffffff;
+  opacity: 0;
+  top: 524px;
+  transition: all .50s;
+}
+.dscr:hover .overplay-text{opacity: 1;
+top: 250px;;}
+
+
+
